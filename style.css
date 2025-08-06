@@ -1,12 +1,12 @@
 body {
-    background-color:#344c9c;
-    color:#b4b6d4;
+    background-color:#11ac3f;
+    color:#1d25a0;
     font-family: sans-serif;
 }
 
 
 header {
-    color: #ff5757;
+    color: #f04dd5;
     font-size: 50px;
     font-family: "Great Vibes", serif;
 }
@@ -26,7 +26,7 @@ h2 {
     padding-top: 50px;
     text-align: center;
     font-size: 35px;
-    color: #ffffff;
+    color: #c01717;
 }
  
 .chamada {
